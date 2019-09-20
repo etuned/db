@@ -6,7 +6,7 @@
             "img": 75,
             "name": "Armie Hammer",
             "email": "armie.hammer@gmail.com",
-            "position": "Receptionist",
+            "position": "Receptionist"
         },
         {
             "id": 2,
@@ -14,7 +14,7 @@
             "img": 64,
             "name": "Gina Ginnish",
             "email": "gina.ginnish@gmail.com",
-            "position": "Delivery Driver",
+            "position": "Delivery Driver"
         },
         {
             "id": 3,
@@ -22,7 +22,7 @@
             "img": 9,
             "name": "Samantha Lowe",
             "email": "samantha.lowe@gmail.com",
-            "position": "Graphic Designer",
+            "position": "Graphic Designer"
         },
         {
             "id": 4,
@@ -30,7 +30,7 @@
             "img": 66,
             "name": "Duane Miles",
             "email": "duane.miles@gmail.com",
-            "position": "Manager",
+            "position": "Manager"
         },
         {
             "id": 5,
@@ -38,7 +38,7 @@
             "img": 8,
             "name": "Eve Leroy",
             "email": "eve.leroy@gmail.com",
-            "position": "Project Manager",
+            "position": "Project Manager"
         },
         {
             "id": 6,
@@ -46,7 +46,7 @@
             "img": 44,
             "name": "Jorge Callalle",
             "email": "jorge.callalle@gmail.com",
-            "position": "Customer Service",
+            "position": "Customer Service"
         },
         {
             "id": 7,
@@ -54,7 +54,7 @@
             "img": 52,
             "name": "Sean DJ Doran",
             "email": "sean.dj.doran@gmail.com",
-            "position": "Senior Developer",
+            "position": "Senior Developer"
         },
         {
             "id": 8,
@@ -62,7 +62,7 @@
             "img": 28,
             "name": "Susan Lyall",
             "email": "susan.lyall@gmail.com",
-            "position": "Data Entry",
+            "position": "Data Entry"
         },
         {
             "id": 9,
@@ -70,7 +70,7 @@
             "img": 55,
             "name": "Preeti Toivonen",
             "email": "preeti.toivonen@gmail.com",
-            "position": "Medical Assistant",
+            "position": "Medical Assistant"
         },
         {
             "id": 10,
@@ -78,7 +78,7 @@
             "img": 21,
             "name": "Davina Billings",
             "email": "davina.billings@gmail.com",
-            "position": "Accountant",
+            "position": "Accountant"
     }
     ],
     "profile": {
