@@ -1,11 +1,10 @@
 {
     "users": [
-      {
         {
             "id": 1,
             "gender": "men",
             "img": 75,
-            "name": 'Armie Hammer',
+            "name": "Armie Hammer",
             "email": "armie.hammer@gmail.com",
             "position": "Receptionist",
         },
@@ -19,7 +18,7 @@
         },
         {
             "id": 3,
-            "gender": 'women',
+            "gender": "women",
             "img": 9,
             "name": "Samantha Lowe",
             "email": "samantha.lowe@gmail.com",
