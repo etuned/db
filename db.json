@@ -20,7 +20,7 @@
       { "id": 5, "gender": "women", "img": 8, "name": "Eve Leroy", "email": "e.leroy@company.com", "position": "Project Manager" },
       { "id": 6, "gender": "men", "img": 44, "name": "Jorge Callalle", "email": "j.callalle@company.com", "position": "Customer Service" },
       { "id": 7, "gender": "men", "img": 52, "name": "Sean Doran", "email": "s.doran@company.com", "position": "Senior Developer" },
-      { "id": 8, "gender": "women", "img": 28, "name": "Susan Lyall", "email": "s.lyall@company.com", "position": "Data Entry" },
+      { "id": 8, "gender": "women", "img": 36, "name": "Susan Lyall", "email": "s.lyall@company.com", "position": "Data Entry" },
       { "id": 9, "gender": "women", "img": 15, "name": "Preeti Toivonen", "email": "p.toivonen@company.com", "position": "Technical Assistant" },
       { "id": 10, "gender": "women", "img": 79, "name": "Davina Billings", "email": "d.billings@company.com", "position": "Accountant" }
     ],
